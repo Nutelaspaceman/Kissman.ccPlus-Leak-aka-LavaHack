@@ -26,3 +26,4 @@
 - discord - `Halq#0101`
 ```
 mfs rly wanted to skid salhack :skull:
+btw thats the latest release
